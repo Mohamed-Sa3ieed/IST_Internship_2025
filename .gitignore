@@ -1,0 +1,6 @@
+env/
+training/
+__pycache__/
+env/*
+training/*
+__pycache__/*
